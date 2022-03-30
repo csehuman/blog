@@ -42,7 +42,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://i.ibb.co/CbzjQtV/whale.png"
+    favicon: "https://raw.githubusercontent.com/csehuman/csehuman.github.io/main/whale.png"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -50,7 +50,7 @@ params:
 
   label:
     text: "csehuman의 로그"
-    icon: https://i.ibb.co/CbzjQtV/whale.png
+    icon: https://raw.githubusercontent.com/csehuman/csehuman.github.io/main/whale.png
     iconHeight: 35
 
   # profile-mode
