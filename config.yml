@@ -79,7 +79,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/csehuman"
 
   analytics:
     google:
