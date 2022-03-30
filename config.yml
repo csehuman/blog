@@ -42,15 +42,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "https://i.ibb.co/CbzjQtV/whale.png"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: "csehuman의 로그"
+    icon: https://i.ibb.co/CbzjQtV/whale.png
     iconHeight: 35
 
   # profile-mode
