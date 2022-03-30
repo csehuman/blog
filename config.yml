@@ -1,5 +1,5 @@
 baseURL: "https://csehuman.github.io/"
-title: ExampleSite
+title: csehuman의 로그
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: csehuman의 로그
+  title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
